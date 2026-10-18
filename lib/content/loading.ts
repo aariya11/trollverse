@@ -1,0 +1,47 @@
+export const LOADING_MESSAGES: readonly string[] = [
+  "Teaching pigeons to read...",
+  "Bribing the hamsters with premium seeds...",
+  "Untangling the internet cables...",
+  "Asking the cloud politely to move...",
+  "Warming up the vibes engine...",
+  "Convincing the servers to cooperate...",
+  "Polishing pixels to a premium shine...",
+  "Downloading more RAM (classic move)...",
+  "Negotiating with the pop-up blocker...",
+  "Feeding the invisible gremlins...",
+  "Checking if this is a dream...",
+  "Consulting the magic 8-ball (outlook: chaotic)...",
+  "Reheating last night's bandwidth...",
+  "Sorting the memes alphabetically, then throwing them in the air...",
+  "Calibrating nonsense levels to specification...",
+  "Flipping the switch twice, as tradition demands...",
+  "Synchronizing chaos with the other chaos...",
+  "Emailing the future to confirm we got here...",
+  "Defragmenting Monday...",
+  "Reticulating splines, just like the old days...",
+  "Asking AI to explain this loading screen...",
+  "Watering the server plants...",
+  "Counting to infinity. Twice.",
+  "Politely asking your router to focus...",
+  "Loading the loading screen...",
+  "Untying a knot in the space-time Wi-Fi...",
+  "Hold on, someone put the website in the microwave again...",
+  "Applying 27 layers of premium nonsense...",
+  "Inspecting the vibes for quality assurance...",
+  "Rebooting the sandwich...",
+];
+
+export const STALL_MESSAGES: readonly string[] = [
+  "Almost there. Probably.",
+  "Hmm. Unexpected enthusiasm from the server.",
+  "The gremlins are negotiating overtime.",
+  "This is either very fast or very slow, no in-between.",
+  "Do not refresh. The website remembers everything.",
+];
+
+export const FINALE_REVEALS: readonly string[] = [
+  "Relax. This was never a real loading screen. Consider yourself politely pranked.",
+  "Plot twist: nothing was loading. Except this joke. It arrived intact.",
+  "You waited. We respect it. This screen is 100% pretend.",
+  "That's it. That was the whole prank. You may now return to your excellent day.",
+];
